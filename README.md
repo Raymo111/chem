@@ -2,8 +2,10 @@
 HTML5 E-Learning game on basis of Multiple Choice Questions. Upon reaching certain squares, a question will be asked to the player. If they get the question right, the marker will ascend the ladder. Otherwise, they will slide down the snake. What are you waiting for? Let's play!
 
 Original author: [Ashok Shah](https://www.shahnashok.com)
+
 Chemistry adaptation: [Raymond Li](https://raymond.li)
-[DEMO](https://raymond.li/chem)
+
+[DEMO](https://raymond.li/chem) <-- This demo will last for a long time. See the offline section for download instructions. 
 
 ## Browser Support
 - IE 10+
@@ -27,3 +29,6 @@ Sample question format (In case I forget or you want to add more):
   correct: 3
 },
 ```
+
+## Offline
+So you don't trust the web and want to run it yourself? No problem. Click [here](https://github.com/Raymo111/chem/archive/master.zip) to download the source code. Unzip and open the index.html file in your browser to play the game. 
