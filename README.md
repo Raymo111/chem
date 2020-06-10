@@ -1,4 +1,4 @@
-# Snakes & Ladders
+# Chemistry Snakes & Ladders
 HTML5 E-Learning game on basis of Multiple Choice Questions. Upon reaching certain squares, a question will be asked to the player. If they get the question right, the marker will ascend the ladder. Otherwise, they will slide down the snake. What are you waiting for? Let's play!
 
 Original author: [Ashok Shah](https://www.shahnashok.com)
